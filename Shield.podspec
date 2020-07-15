@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "Shield"
-  spec.version      = “1.2.0”
+  spec.version      = “1.2”
   spec.summary      = "Security library covering Cryptography, Hashing, HMAC, Random, PBKDF, PKCS, X509, PKCS10"
 
   spec.description  = <<-DESC
